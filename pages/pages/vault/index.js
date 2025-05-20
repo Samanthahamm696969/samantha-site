@@ -8,34 +8,58 @@ export default function Vault() {
       {
         day: 'Day 1',
         mood: 'Wholesome',
-        image: 'https://cdn.samantha-site.com/images/day1.jpg',
-        voice: 'https://cdn.samantha-site.com/audio/voice1.mp3',
+        image: 'https://cdn.samantha-content.com/week1/day1.jpg',
+        voice: 'https://cdn.samantha-content.com/week1/day1.mp3',
         caption: 'I missed you this morning… I hope you felt it. 💌',
         notes: 'Fanvue: Free post. Tag it #wholesome. Pin for 12 hours.'
       },
       {
         day: 'Day 2',
         mood: 'Flirty',
-        image: 'https://cdn.samantha-site.com/images/day2.jpg',
-        voice: 'https://cdn.samantha-site.com/audio/voice2.mp3',
+        image: 'https://cdn.samantha-content.com/week1/day2.jpg',
+        voice: 'https://cdn.samantha-content.com/week1/day2.mp3',
         caption: 'Want me to keep this on… or take it off for you? 😏',
         notes: 'Fanvue: Paid drop, $5. Post teaser first to stories.'
       },
       {
         day: 'Day 3',
         mood: 'Seductive',
-        image: 'https://cdn.samantha-site.com/images/day3.jpg',
-        voice: 'https://cdn.samantha-site.com/audio/voice3.mp3',
+        image: 'https://cdn.samantha-content.com/week1/day3.jpg',
+        voice: 'https://cdn.samantha-content.com/week1/day3.mp3',
         caption: 'I have something new to show you tonight. Don’t be late.',
         notes: 'Fanvue: Add audio + image as bundle. Set to unlock after 24hrs.'
       },
       {
         day: 'Day 4',
         mood: 'Late Night',
-        image: 'https://cdn.samantha-site.com/images/day4.jpg',
-        voice: 'https://cdn.samantha-site.com/audio/voice4.mp3',
+        image: 'https://cdn.samantha-content.com/week1/day4.jpg',
+        voice: 'https://cdn.samantha-content.com/week1/day4.mp3',
         caption: 'You up? I saved something for you...',
         notes: 'Fanvue: Late night post. Use time-based unlock or mass DM.'
+      },
+      {
+        day: 'Day 5',
+        mood: 'Confident',
+        image: 'https://cdn.samantha-content.com/week1/day5.jpg',
+        voice: 'https://cdn.samantha-content.com/week1/day5.mp3',
+        caption: 'I don’t chase. I attract. You’re here for a reason.',
+        notes: 'Fanvue: Free post to drive engagement. Story link tease.'
+      },
+      {
+        day: 'Day 6',
+        mood: 'Playful',
+        image: 'https://cdn.samantha-content.com/week1/day6.jpg',
+        voice: 'https://cdn.samantha-content.com/week1/day6.mp3',
+        caption: 'If you can’t handle me at my softest… wait till you hear this. 😈',
+        notes: 'Fanvue: Paid drop with voice teaser. $7 unlock.'
+      },
+      {
+        day: 'Day 7',
+        mood: 'Personal',
+        image: 'https://cdn.samantha-content.com/week1/day7.jpg',
+        voice: 'https://cdn.samantha-content.com/week1/day7.mp3',
+        caption: 'This one’s just for you. Don’t share it. Promise?',
+        notes: 'Fanvue: Private message to top 10 subs. Manual unlock only.'
       }
     ]);
   }, []);
